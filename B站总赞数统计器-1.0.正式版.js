@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         B站总赞数统计器
-// @namespace    https://space.bilibili.com/3461569935575626
+// @namespace    https://greasyfork.org/zh-CN/scripts/553065
 // @version      1.0
 // @description  🐾 全网首发原创脚本嗷~ 这是帮你统计B站总赞数的小工具！生成报告，还有超多头衔等你解锁！(ฅ´ω`ฅ)
 // @author       小小电子xxdz
@@ -571,7 +571,7 @@ content.innerHTML = `
             观看此插件演示视频
         </a>
 
-        <a href="https://update.greasyfork.org/scripts/537188/%E5%93%94%E5%93%A9%E6%9E%81%E9%9F%B3.user.js" target="_blank" style="
+        <a href="https://greasyfork.org/zh-CN/scripts/553065" target="_blank" style="
             display: block;
             padding: 10px;
             background: #23c16b;
