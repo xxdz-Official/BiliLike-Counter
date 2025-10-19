@@ -1286,7 +1286,7 @@ function saveReportAsImage(reportWindow, stats, userInfo, titles, accountDefinit
         color: white;
         font-size: 16px;
     `;
-    modal.textContent = '正在生成图片...';
+    modal.textContent = '正在努力生成图片嗷呜，这可能需要一小会儿...';
     document.body.appendChild(modal);
 
     // 关键修复：设置生成状态
