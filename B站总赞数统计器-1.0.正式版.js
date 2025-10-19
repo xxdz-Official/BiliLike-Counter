@@ -6,11 +6,13 @@
 // @author       小小电子xxdz
 // @match        https://message.bilibili.com/*
 // @grant        GM_addStyle
+// @downloadURL  https://github.com/xxdz-Official/BiliLike-Counter/blob/795d7c086a52727363487d10148f04de48457c8e/B%E7%AB%99%E6%80%BB%E8%B5%9E%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%99%A8-1.0.%E6%AD%A3%E5%BC%8F%E7%89%88.js
 // @icon         https://article.biliimg.com/bfs/new_dyn/356e12a744df26a2f38a158da87c364b3461569935575626.png
 // @license      GPL
 // @homepage     https://space.bilibili.com/3461569935575626
 // @supportURL   https://miku66ccff.freeflarum.com
 // ==/UserScript==
+
 console.log('BiliLike-Counterの脚本已加载')
 // 添加Font Awesome样式和正在滚动动画
 GM_addStyle(`
@@ -583,7 +585,7 @@ content.innerHTML = `
             检查更新 <span style="font-size: 12px;">(需要VPN)</span>
         </a>
 
-        <a href="https://miku66ccff.freeflarum.com" target="_blank" style="
+        <a href="https://miku66ccff.freeflarum.com/blog/176-bililike-counter-update-page" target="_blank" style="
             display: block;
             padding: 10px;
             background: #ffb11b;
@@ -597,7 +599,7 @@ content.innerHTML = `
             通过UP网站检查更新 <span style="font-size: 12px;">(无需VPN,但需要手动复制源码)</span>
         </a>
 
-        <a href="https://github.com" target="_blank" style="
+        <a href="https://github.com/xxdz-Official/BiliLike-Counter" target="_blank" style="
             display: block;
             padding: 10px;
             background: #333;
