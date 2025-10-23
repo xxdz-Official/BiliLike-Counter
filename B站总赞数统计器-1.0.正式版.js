@@ -12,7 +12,7 @@
 // @homepage     https://space.bilibili.com/3461569935575626
 // @supportURL   https://miku66ccff.freeflarum.com
 // ==/UserScript==
-
+//目前有个神奇bug，在投稿页面的消息菜单里会加载本插件的窗口？！
 console.log('BiliLike-Counterの脚本已加载')
 // 添加Font Awesome样式和正在滚动动画
 GM_addStyle(`
@@ -557,7 +557,7 @@ content.innerHTML = `
     </div>
 
     <div style="display: grid; grid-template-columns: 1fr; gap: 10px; margin-bottom: 20px;">
-        <a href="https://www.bilibili.com/video/BV1PtTDzQE6c" target="_blank" style="
+        <a href="https://www.bilibili.com/video/BV1e1sqzCE9y" target="_blank" style="
             display: block;
             padding: 10px;
             background: #fb7299;
