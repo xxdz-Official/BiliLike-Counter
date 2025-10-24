@@ -139,7 +139,7 @@
 
 - 📧 **问题反馈**：[GitHub Issues](https://github.com/xxdz-Official/BiliLike-Counter/issues)
 - 💬 **讨论社区**：[Miku66ccff论坛](https://miku66ccff.freeflarum.com)
-- 🎥 **演示视频**：[B站演示视频](https://www.bilibili.com/video/BV1PtTDzQE6c)
+- 🎥 **演示视频**：[B站演示视频](https://www.bilibili.com/video/BV1e1sqzCE9y)
 
 ## 🔄 更新日志
 
